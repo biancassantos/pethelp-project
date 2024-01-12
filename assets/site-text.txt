@@ -1,0 +1,30 @@
+pethelp donations contacts about
+
+# help pets get a better life
+we rescue pets living in bad conditions and give them all the care needed for free.
+[request rescue] [donate]
+
+## adopt a friend!
+our rescued animals are also looking for a new loving and safe home.
+[adopt]
+
+## say no to abandonment
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tellus mi, semper eu finibus quis, condimentum ac eros. Donec a suscipit dolor. Vestibulum vel risus nulla. Pellentesque id molestie justo, suscipit laoreet lorem. Morbi venenatis nisl sapien, quis pulvinar eros pulvinar ac. Sed sagittis augue laoreet congue varius. Aliquam id semper turpis, in viverra nulla. Sed sit amet tempus dolor. Nam nec elementum arcu.
+
+### consequences and risks
+consequence or risk number one
+consequence or risk number two
+consequence or risk number three
+consequence or risk number four
+consequence or risk number five
+consequence or risk number six
+
+pethelp
+2024
+
+
+pink-bg: #FFDFD2
+pink-dark: #ED6847
+brown: #4D2E1A
+red: #CF3C1A
+yellow: #F89D4A
