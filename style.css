@@ -114,6 +114,7 @@ ul > li {
     max-width: 1020px;
     margin: auto;
     padding: 2rem;
+    height: 100vh;
 }
 
 .hero-text > h1 {
